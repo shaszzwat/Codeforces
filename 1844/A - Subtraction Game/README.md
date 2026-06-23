@@ -1,0 +1,20 @@
+<h2><a href="https://codeforces.com/contest/1844/problem/A" target="_blank" rel="noopener noreferrer">1844A — Subtraction Game</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1844A](https://codeforces.com/contest/1844/problem/A) |
+
+## Topics
+`constructive algorithms` `games`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Subtraction Game</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given two positive integers, $$$a$$$ and $$$b$$$ ($$$a  \lt  b$$$).</p><p>For some positive integer $$$n$$$, two players will play a game starting with a pile of $$$n$$$ stones. They take turns removing exactly $$$a$$$ or exactly $$$b$$$ stones from the pile. The player who is unable to make a move loses.</p><p>Find a positive integer $$$n$$$ such that the second player to move in this game has a winning strategy. This means that no matter what moves the first player makes, the second player can carefully choose their moves (possibly depending on the first player's moves) to ensure they win.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 100$$$). The description of the test cases follows.</p><p>The only line of each test case contains two integers, $$$a$$$ and $$$b$$$ ($$$1 \le a  \lt  b \le 100$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output any positive integer $$$n$$$ ($$$1 \le n \le 10^6$$$) such that the second player to move wins.</p><p>It can be proven that such an $$$n$$$ always exists under the constraints of the problem.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0011038539841525308" id="id006047820567868646" class="input-output-copier">Copy</div></div><pre id="id0011038539841525308"><div class="test-example-line test-example-line-even test-example-line-0">3</div><div class="test-example-line test-example-line-odd test-example-line-1">1 4</div><div class="test-example-line test-example-line-even test-example-line-2">1 5</div><div class="test-example-line test-example-line-odd test-example-line-3">9 26</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id001593883439295769" id="id00677919611136388" class="input-output-copier">Copy</div></div><pre id="id001593883439295769">2
+6
+3
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, when $$$n = 2$$$, the first player must remove $$$a = 1$$$ stone. Then, the second player can respond by removing $$$a = 1$$$ stone. The first player can no longer make a move, so the second player wins.</p><p>In the second test case, when $$$n = 6$$$, the first player has two options: </p><ul> <li> If they remove $$$b = 5$$$ stones, then the second player can respond by removing $$$a = 1$$$ stone. The first player can no longer make a move, so the second player wins. </li><li> If they remove $$$a = 1$$$ stone, then the second player can respond by removing $$$a = 1$$$ stone. Afterwards, the players can only alternate removing exactly $$$a = 1$$$ stone. The second player will take the last stone and win. </li></ul> Since the second player has a winning strategy no matter what the first player does, this is an acceptable output.<p>In the third test case, the first player cannot make any moves when $$$n = 3$$$, so the second player immediately wins.</p></div>
