@@ -6,26 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 15 |
+| 53 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
-- [brute force](#brute-force) (8)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [binary search](#binary-search) (2)
+- [brute force](#brute-force) (12)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
-- [dp](#dp) (3)
-- [games](#games) (2)
+- [dp](#dp) (5)
+- [games](#games) (3)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (12)
-- [math](#math) (16)
+- [implementation](#implementation) (16)
+- [math](#math) (21)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (5)
-- [strings](#strings) (5)
+- [sortings](#sortings) (6)
+- [strings](#strings) (8)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -35,19 +35,24 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
+| 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 
 ### constructive algorithms
 
@@ -55,6 +60,9 @@
 |---|---------|------------|----------|
 | 1844A | [Subtraction Game](https://codeforces.com/contest/1844/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1844/A%20-%20Subtraction%20Game/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+| 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
+| 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### data structures
 
@@ -67,8 +75,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 
 ### games
@@ -77,6 +87,7 @@
 |---|---------|------------|----------|
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1844A | [Subtraction Game](https://codeforces.com/contest/1844/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1844/A%20-%20Subtraction%20Game/solution.cpp) |
+| 2183A | [Binary Array Game](https://codeforces.com/contest/2183/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2183/A%20-%20Binary%20Array%20Game/solution.cpp) |
 
 ### geometry
 
@@ -101,9 +112,14 @@
 | 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
 | 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/B%20-%20Ashmal/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
+| 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
 
 ### hashing
 
@@ -115,15 +131,19 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2112A | [Race](https://codeforces.com/contest/2112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2112/A%20-%20Race/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
 | 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
 | 2175A | [Little Fairy's Painting](https://codeforces.com/contest/2175/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2175/A%20-%20Little%20Fairy's%20Painting/solution.cpp) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
@@ -143,11 +163,16 @@
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2160A | [MEX Partition](https://codeforces.com/contest/2160/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2160/A%20-%20MEX%20Partition/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
+| 2202A | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2202/A%20-%20Parkour%20Design/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+| 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
 
 ### number theory
 
@@ -166,6 +191,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 
 ### strings
 
@@ -173,7 +199,10 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/B%20-%20Ashmal/solution.cpp) |
 
