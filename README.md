@@ -6,26 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 15 |
+| 56 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (12)
+- [brute force](#brute-force) (13)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (5)
 - [games](#games) (3)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (20)
+- [greedy](#greedy) (23)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (16)
-- [math](#math) (21)
+- [math](#math) (24)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -53,6 +53,7 @@
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 
 ### constructive algorithms
 
@@ -120,6 +121,9 @@
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 
 ### hashing
 
@@ -173,6 +177,9 @@
 | 2202A | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2202/A%20-%20Parkour%20Design/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 
 ### number theory
 
@@ -205,6 +212,7 @@
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/B%20-%20Ashmal/solution.cpp) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 
 ### two pointers
 
