@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 11 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (5)
 - [math](#math) (8)
@@ -40,6 +41,12 @@
 |---|---------|------------|----------|
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -58,6 +65,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
