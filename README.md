@@ -6,28 +6,105 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 15 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [data structures](#data-structures) (1)
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (1)
+- [geometry](#geometry) (2)
+- [greedy](#greedy) (7)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (5)
+- [math](#math) (8)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
 
 ---
 
-### data structures
+### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.cpp) |
+| 2120B | [Square Pool](https://codeforces.com/contest/2120/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2120/B%20-%20Square%20Pool/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
+| 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
+| 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+| 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2112A | [Race](https://codeforces.com/contest/2112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2112/A%20-%20Race/solution.cpp) |
+| 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
+| 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
+| 2175A | [Little Fairy's Painting](https://codeforces.com/contest/2175/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2175/A%20-%20Little%20Fairy's%20Painting/solution.cpp) |
+| 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2112A | [Race](https://codeforces.com/contest/2112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2112/A%20-%20Race/solution.cpp) |
+| 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2160A | [MEX Partition](https://codeforces.com/contest/2160/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2160/A%20-%20MEX%20Partition/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+| 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 
 ---
 
