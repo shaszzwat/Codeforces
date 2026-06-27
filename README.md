@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 15 |
+| 57 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (13)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -29,6 +30,12 @@
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 
 ### binary search
 
