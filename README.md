@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 16 |
+| 61 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (13)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -39,6 +39,7 @@
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### binary search
 
