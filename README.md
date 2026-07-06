@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 2 |
+| 4 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [greedy](#greedy) (1)
 
 ---
@@ -23,6 +23,7 @@
 |---|---------|------------|----------|
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2242C | [Unstable Elements](https://codeforces.com/contest/2242/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2242/C%20-%20Unstable%20Elements/solution.cpp) |
 
 ### greedy
 
