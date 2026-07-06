@@ -6,15 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [greedy](#greedy) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### greedy
 
