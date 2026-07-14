@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 2 |
+| 7 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [greedy](#greedy) (1)
 
 ---
@@ -26,6 +26,7 @@
 | 2242C | [Unstable Elements](https://codeforces.com/contest/2242/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2242/C%20-%20Unstable%20Elements/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/shaszzwat/Codeforces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 
 ### greedy
 
